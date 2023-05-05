@@ -1,3 +1,4 @@
+% Code are edited based on reference to https://www.vlfeat.org
 function [mosaic,H] = my_sift(im1, im2)
 % SIFT_MOSAIC Demonstrates matching two images using SIFT and RANSAC
 %
