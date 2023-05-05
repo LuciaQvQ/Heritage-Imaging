@@ -1,3 +1,4 @@
+% Code are edited based on reference to https://www.vlfeat.org
 function [mosaic] = mosaic(im1,im2)
 %UNTITLED5 Summary of this function goes here
 %   Detailed explanation goes here
